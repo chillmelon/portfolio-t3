@@ -5,9 +5,9 @@ import ProfilePhoto from "./assets/ProfilePhoto.png";
 import { ScrollDownIcon } from "../components/AnimatedIcons";
 
 const content = {
-  name: "Marcin@Taipei.dev",
+  name: "Jason Hsieh",
   profilePhoto: ProfilePhoto,
-  title: "Full Stack Developer",
+  title: "Grad Student / Backend Developer",
   cta: {
     label: "Follow me on Twitch!",
     url: "https://www.twitch.tv/taipei_dev",
